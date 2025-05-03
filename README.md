@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shreyanshu ... and I'm a Mern developer...</h2>
+<h2 align="left">Hi 👋! My name is Shreyanshu. I'm a Mern developer and focuses on creating responsive user interfaces and seamless application experiences.</h2>
 
 ###
 
