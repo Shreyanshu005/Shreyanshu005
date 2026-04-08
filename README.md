@@ -35,8 +35,7 @@ const shreyanshu = {
   styling:     ["TailwindCSS", "CSS3"],
   languages:   ["TypeScript", "JavaScript", "Swift"],
   state:       ["Redux", "Context API"],
-  currentMood: "Building something awesome 🚀",
-  funFact:     "I debug with console.log and I'm not ashamed 😤",
+  currentMood: "Building something awesome ",
 };
 ```
 
