@@ -84,28 +84,13 @@ const shreyanshu = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshu005&theme=dracula&hide_border=false&area=true" alt="activity graph" />
 </div>
 
-## ⚡ What I'm Building
-
-> I live at the intersection of **web** and **mobile** — crafting pixel-perfect interfaces for browsers and iPhones alike.
-> Whether it's a blazing-fast Next.js app or a smooth SwiftUI experience, I obsess over the details that users *feel* but never notice.
-
-```
-Web Dev  ████████████████████░░░  85%
-iOS Dev  ████████████░░░░░░░░░░░  55%
-UI/UX    ███████████████░░░░░░░░  70%
-Backend  ████████████░░░░░░░░░░░  55%
-```
-
-## 💭 Dev Philosophy
 
 <div align="center">
-
-> *"First, solve the problem. Then, write the code."*
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-*Made with 💜 by Shreyanshu — one component at a time*
+*Made with 💜 by Shreyanshu, one component at a time*
 
 </div>
