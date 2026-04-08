@@ -7,7 +7,7 @@
 ███████╗███████║██████╔╝█████╗   ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║
 ╚════██║██╔══██║██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
 ███████║██║  ██║██║  ██║███████╗   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+there!+I'm+Shreyanshu+%F0%9F%91%8B;MERN+Developer+%7C+iOS+Dev+%7C+UI+Craftsman" alt="Typing SVG" />
@@ -74,12 +74,7 @@ const shreyanshu = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyanshu005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Shreyanshu's%20GitHub%20Stats" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshu005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="languages graph" />
-</div>
+## 🌊 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshu005&theme=dracula&hide_border=false" height="160" alt="streak stats" />
@@ -88,6 +83,18 @@ const shreyanshu = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshu005&theme=dracula&hide_border=false&area=true" alt="activity graph" />
 </div>
+
+## ⚡ What I'm Building
+
+> I live at the intersection of **web** and **mobile** — crafting pixel-perfect interfaces for browsers and iPhones alike.
+> Whether it's a blazing-fast Next.js app or a smooth SwiftUI experience, I obsess over the details that users *feel* but never notice.
+
+```
+Web Dev  ████████████████████░░░  85%
+iOS Dev  ████████████░░░░░░░░░░░  55%
+UI/UX    ███████████████░░░░░░░░  70%
+Backend  ████████████░░░░░░░░░░░  55%
+```
 
 ## 💭 Dev Philosophy
 
